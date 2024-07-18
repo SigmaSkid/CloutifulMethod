@@ -24,7 +24,10 @@ This script provides a visual representation of how the delay times are distribu
 ## Important Notice
 This script is intended for educational purposes only.  
 Using scripts or any third-party tools to gain an advantage in competitive games may violate the game's terms of service.  
-Always ensure fair play and abide by the rules of the game.
+Always ensure fair play and abide by the rules of the game.  
+Also it's likely detected, considering it's autohotkey, and I'm not going to test that.  
+This method worked fine with third party clients such as [McOsu](https://store.steampowered.com/app/607260/McOsu/).  
+I won't be releasing undetected methods of recreating this cheating method.  
 
 # Additional Information
 ## Background on the Cheating Method
